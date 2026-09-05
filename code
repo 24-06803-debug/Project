@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>My Online Resume</h1>
+
+        <!-- Profile Photo -->
+        <img src="https://photos.app.goo.gl/at365b1hN3xqJudz7" alt="My Profile Photo" width="200">
+
+        <h2>Rio Ann Kim Masalunga</h2>
+        <p>Third Year BS Information Technology Student</p>
+        <p>Major in Business Analytics</p>
+    </header>
+
+    <hr>
+
+    <!-- Contact Information -->
+    <section>
+        <h1>Contact Information</h1>
+
+        <ul>
+            <li>Email: 24-06803@g.batstate-edu.ph</li>
+            <li>Phone: 09157894671</li>
+            <li>Location: Cuta West, Batangas City, Philippines</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Summary -->
+    <section>
+        <h1>Summary</h1>
+
+        <p>
+            I am a 20-year-old and a third-year college student at
+            Batangas State University taking a Bachelor of Science in
+            Information Technology with a major in Business Analytics.
+            I am a motivated and reliable student with strong
+            communication, organizational, and problem-solving skills.
+            I have experience in collaborative work, community engagement,
+            and meeting deadlines. I am committed to learning quickly,
+            following instructions, and contributing positively to team
+            and work goals.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Education -->
+    <section>
+        <h1>Education</h1>
+
+        <ul>
+            <li>
+                <strong>Batangas State University</strong>
+                <br>
+                Bachelor of Science in Information Technology
+                <br>
+                Major in Business Analytics
+                <br>
+                Third Year
+            </li>
+
+            <br>
+
+            <li>
+                <strong>Alangilan Senior High School</strong>
+                <br>
+                With Honors
+            </li>
+
+            <br>
+
+            <li>
+                <strong>Batangas City Integrated High School</strong>
+                <br>
+                With Honors
+            </li>
+
+            <br>
+
+            <li>
+                <strong>Sta. Clara Elementary School</strong>
+                <br>
+                With Honors
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Work Experience -->
+    <section>
+        <h1>Work Experience</h1>
+
+        <ul>
+            <li>
+                <strong>Student / Academic Projects</strong>
+                <br>
+                Batangas State University
+                <br>
+                Third Year College Student
+                <br>
+                Responsibilities:
+                <ul>
+                    <li>Participated in collaborative academic projects.</li>
+                    <li>Worked with classmates to complete assigned tasks.</li>
+                    <li>Followed project instructions and deadlines.</li>
+                    <li>Applied problem-solving skills to academic activities.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <p>
+            <strong>Note:</strong> Add your actual work experience here if you
+            have any.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Skills -->
+    <section>
+        <h1>Skills</h1>
+
+        <ul>
+            <li>Proficient in basic programming</li>
+            <li>Web fundamentals</li>
+            <li>Technical troubleshooting</li>
+            <li>Strong problem-solving abilities</li>
+            <li>Teamwork and collaboration</li>
+            <li>Communication skills</li>
+            <li>Organizational skills</li>
+            <li>Time management</li>
+            <li>Ability to learn quickly</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Awards and Achievements -->
+    <section>
+        <h1>Awards, Certifications, and Achievements</h1>
+
+        <ul>
+            <li>With Honors - Sta. Clara Elementary School</li>
+            <li>With Honors - Batangas City Integrated High School</li>
+            <li>With Honors - Alangilan Senior High School</li>
+            <li>
+                Add your certifications, awards, seminars, or other
+                achievements here.
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Hobbies -->
+    <section>
+        <h1>Hobbies and Interests</h1>
+
+        <ul>
+            <li>Learning about technology</li>
+            <li>Exploring web development</li>
+            <li>Working on academic projects</li>
+            <li>Learning new programming skills</li>
+            <li>Spending time with family and friends</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Career Objective -->
+    <section>
+        <h1>Career Objective</h1>
+
+        <p>
+            To continuously develop my technical and professional skills
+            while gaining experience in the field of Information Technology
+            and Business Analytics. I aim to contribute my knowledge,
+            problem-solving abilities, teamwork, and willingness to learn
+            to an organization while growing as an IT professional.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <p>
+            &copy; 2026 Your Name. All Rights Reserved.
+        </p>
+
+        <p>
+            This website was created for Project 1 - Online Resume.
+        </p>
+    </footer>
+
+</body>
+
+</html>
